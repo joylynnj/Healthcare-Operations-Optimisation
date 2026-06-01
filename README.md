@@ -1,4 +1,4 @@
-#Healthcare Resource Optimization & Operational Risk Pipeline
+Healthcare Resource Optimization & Operational Risk Pipeline
 
 ## Project Executive Summary
 This project analyzes a 100,000-row clinical dataset from 130 US hospitals to identify systemic operational bottlenecks. By evaluating the relationship between hospital stay lengths and 30-day readmission risks, this pipeline builds a foundation for predictive resource allocation and hospital overhead mitigation.
