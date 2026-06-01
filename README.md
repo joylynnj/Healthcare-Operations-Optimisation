@@ -18,4 +18,3 @@ This project analyzes a 100,000-row clinical dataset from 130 US hospitals to id
 ##Repository Structure
 * `/notebooks`: Contains the Jupyter Notebook mapping data cleaning, anomaly detection, visual profiling, and machine learning classification.
 
-* Update README with executive summary
